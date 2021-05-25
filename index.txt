@@ -1,0 +1,10 @@
+9
+1-Moderna
+2-BioNTech/Pfizer
+3-Oxford/AstraZeneca
+4-Johnson&Johnson
+5-Gamaleya (Sputnik V)
+6-Novavax
+7-Sinopharm
+8-SinoVac
+9-Bharat Biotech
